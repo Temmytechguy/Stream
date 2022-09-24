@@ -6,7 +6,7 @@ import java.util.Optional;
 
 //findAny()
 //findFirst()
-public class Demo3 {
+public class Demo3FindAnyFindFirstStreamMethod {
     public static void main(String[] args) {
         List<String> stringList = Arrays.asList("one","two","three","four");
 
