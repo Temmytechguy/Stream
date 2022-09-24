@@ -10,8 +10,14 @@ public class Demo3 {
     public static void main(String[] args) {
         List<String> stringList = Arrays.asList("one","two","three","four");
 
+        //findAny()
         Optional<String> element = stringList.stream().findAny();
+        System.out.println(element.get());
 
-        System.out.println(element);
+        //findFirst()
+        Optional<String> element2 = stringList.stream().findFirst();
+        System.out.println(element2.get());
+
+
     }
 }
