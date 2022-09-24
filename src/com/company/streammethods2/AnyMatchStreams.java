@@ -2,7 +2,7 @@ package com.company.streammethods2;
 
 //anymatch()
 //allMatch()
-//oneMatch()
+//noneMatch()
 
 import java.util.HashSet;
 import java.util.Set;
@@ -26,6 +26,10 @@ public class AnyMatchStreams {
         //AllMatch() every value should match
         boolean result2 = fruits.stream().allMatch(value -> {return value.startsWith("One");});
         System.out.println(result2);
+
+        //NoneMatch()
+        boolean result3 = fruits.stream().noneMatch(value -> {return value.startsWith("One");});
+        System.out.println(result3);
 
 
 
