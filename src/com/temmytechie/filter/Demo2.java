@@ -1,4 +1,4 @@
-package com.company.filter;
+package com.temmytechie.filter;
 
 import java.util.Arrays;
 import java.util.List;

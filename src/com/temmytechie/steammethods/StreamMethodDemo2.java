@@ -1,4 +1,4 @@
-package com.company.steammethods;
+package com.temmytechie.steammethods;
 
 import java.util.Arrays;
 import java.util.List;

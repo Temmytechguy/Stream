@@ -1,4 +1,4 @@
-package com.company.streammethods2;
+package com.temmytechie.streammethods2;
 
 //anymatch()
 //allMatch()

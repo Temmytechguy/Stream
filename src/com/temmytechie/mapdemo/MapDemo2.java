@@ -1,4 +1,4 @@
-package com.company.mapdemo;
+package com.temmytechie.mapdemo;
 
 import java.util.Arrays;
 import java.util.List;

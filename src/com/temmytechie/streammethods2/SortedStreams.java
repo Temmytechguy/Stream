@@ -1,4 +1,4 @@
-package com.company.streammethods2;
+package com.temmytechie.streammethods2;
 
 import java.util.Arrays;
 import java.util.Comparator;

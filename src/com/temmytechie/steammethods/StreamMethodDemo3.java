@@ -1,4 +1,4 @@
-package com.company.steammethods;
+package com.temmytechie.steammethods;
 
 //reduce()
 
