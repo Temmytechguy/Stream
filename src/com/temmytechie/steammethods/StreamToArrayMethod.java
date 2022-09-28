@@ -3,7 +3,7 @@ package com.temmytechie.steammethods;
 import java.util.Arrays;
 import java.util.List;
 
-public class StreamMethodDemo4 {
+public class StreamToArrayMethod {
     public static void main(String[] args) {
 
         List<String> stringList = Arrays.asList("A","B","C","1","2","3");

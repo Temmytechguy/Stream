@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
 //count()
 //forEach()
 
-public class StreamMethodDemo1 {
+public class StreamDistinctAndCountMethod {
 
     public static void main(String[] args) {
 
